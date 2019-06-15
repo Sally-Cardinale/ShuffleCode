@@ -1,0 +1,44 @@
+nav {
+  width: 100%;
+  font-size: 1.5rem;
+  color:rgb(36, 232, 72);;
+  margin-bottom: 20px;
+  background-color:  rgb(23, 23, 23);
+  height: auto;
+}
+
+a {
+  color: rgb(36, 232, 72);;
+  font-size: 3.0rem;
+  font-family: 'Faster One', cursive;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+nav li {
+  display: inline-block;
+  padding: 10px 0;
+  width: 33.33%;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+.alignLeft{
+  text-align: left;
+  padding-left: 1%;
+}
+
+.alignRight{
+  color: rgb(36, 232, 72);
+  text-align: right;
+  padding-right: 1%;
+  font-size: 2.2rem;
+  font-family: 'Special Elite', cursive;
+}
